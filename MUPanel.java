@@ -1,5 +1,3 @@
-package de.martin_ueding.mathematik.matheuhr;
-
 import javax.swing.JPanel;
 
 import java.awt.Graphics;
