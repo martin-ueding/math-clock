@@ -1,3 +1,5 @@
+// Copyright (c) 2011 Martin Ueding <dev@martin-ueding.de>
+
 import javax.swing.JPanel;
 
 import java.awt.Graphics;
