@@ -5,3 +5,6 @@ mathclock.jar: Matheuhr.class
 
 Matheuhr.class: *.java
 	javac Matheuhr.java
+
+clean:
+	rm -rf *.class *.jar
